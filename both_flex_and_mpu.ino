@@ -2,11 +2,11 @@
 #include <ThingSpeak.h>
 #include <Wire.h>
 
-const char* ssid = "hp";            // Replace with your Wi-Fi credentials
-const char* password = "KK123456";
+const char* ssid = "xxxx";            // Replace with your Wi-Fi credentials
+const char* password = "xxxxxxxx";
 
-const unsigned long channelID = 2326023;   // Replace with Your ThingSpeak Channel ID and APIkey
-const char* thingSpeakApiKey = "TEQC2LB9ZPG6DHAQ";
+const unsigned long channelID = xxxxxxx;   // Replace with Your ThingSpeak Channel ID and APIkey
+const char* thingSpeakApiKey = "xxxxxxxxxxxxxxxx";
 
 // Constants for flex 
 // Calibrate flex sensor when you are using
